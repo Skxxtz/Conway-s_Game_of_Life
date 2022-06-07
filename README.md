@@ -12,5 +12,6 @@ Rules:
 
 This is a simple example of a glider wich moves in one direction and a slight demonstration of how the program works:
 
-https://user-images.githubusercontent.com/63540046/172409700-e79d9f4e-6a71-42c0-8965-0a8a06e7a0f0.mov
+
+https://user-images.githubusercontent.com/63540046/172410880-446aae68-996f-42b4-a5f2-491f90be9df0.mov
 
