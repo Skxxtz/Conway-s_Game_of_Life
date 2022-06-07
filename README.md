@@ -1,4 +1,6 @@
-# Conway's Game of Life
+# Conway's Game of Life 
+Python Project 06/2022
+
 Conways game of life is a zero-player game invented by the mathematician John Horton Conway. 
 
 Rules:
