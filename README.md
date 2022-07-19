@@ -4,7 +4,7 @@ Python Project 06/2022
 Conways game of life is a zero-player game invented by the mathematician John Horton Conway. 
 
 Rules:
-1. Every live cell with more than 4 live neighbours dies.
+1. Every live cell with more than 3 live neighbours dies.
 2. Every live cell with fewer than 2 live neighbours dies.
 3. Every dead cell with 3 live neighbours becomes alive
 4. Every live cell with 2 or 3 live neighbours lives on to the next generation.
